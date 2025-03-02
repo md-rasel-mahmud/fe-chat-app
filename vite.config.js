@@ -8,7 +8,7 @@ export default defineConfig({
     host: true,
   },
   preview: {
-    port: 4903,
-    allowedHosts: ["*"],
+    port: 4040,
+    allowedHosts: ["*", "beta.hisabnikashbd.com"],
   },
 });
